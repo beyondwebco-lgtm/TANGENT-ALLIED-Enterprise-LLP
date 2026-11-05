@@ -1,5 +1,5 @@
 /**
- * TANGENT ALLIED ENTERPRISE LLP
+ * Tangent Allied Enterprise LLP
  * Main Interactive JavaScript
  */
 
@@ -169,8 +169,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <i class="fa-solid fa-circle-check" style="color: #10B981; font-size: 1.4rem; margin-top: 2px;"></i>
           <div>
             <div style="font-weight: 800; font-size: 1rem; margin-bottom: 4px;">Thank you, ${escapeHtml(name)}!</div>
-            <p style="margin-bottom: 12px; font-weight: 400; color: #065F46;">Your message has been received. The TANGENT ALLIED Enterprise LLP team will get in touch with you shortly.</p>
-            <a href="https://wa.me/917989395620?text=${encodeURIComponent(`Hello TANGENT ALLIED Enterprise LLP, my name is ${name}. I submitted an inquiry: "${message}" (Mobile: ${mobile}, Email: ${email})`)}" 
+            <p style="margin-bottom: 12px; font-weight: 400; color: #065F46;">Your message has been received. The Tangent Allied Enterprise LLP team will get in touch with you shortly.</p>
+            <a href="https://wa.me/917989395620?text=${encodeURIComponent(`Hello Tangent Allied Enterprise LLP, my name is ${name}. I submitted an inquiry: "${message}" (Mobile: ${mobile}, Email: ${email})`)}" 
                target="_blank" 
                rel="noopener noreferrer" 
                class="btn btn-sm" 

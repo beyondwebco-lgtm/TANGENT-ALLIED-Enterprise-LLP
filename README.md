@@ -1,6 +1,6 @@
-# TANGENT ALLIED Enterprise LLP - Official Business Website
+# Tangent Allied Enterprise LLP - Official Business Website
 
-A modern, professional, and fully responsive static corporate website for **TANGENT ALLIED Enterprise LLP**, a marketing services company specializing in ATL, BTL, and non-traditional communication channels.
+A modern, professional, and fully responsive static corporate website for **Tangent Allied Enterprise LLP**, a marketing services company specializing in ATL, BTL, and non-traditional communication channels.
 
 ## 🚀 Features
 
@@ -48,4 +48,5 @@ Then navigate to `http://localhost:8000`.
 
 ## 📄 License & Rights
 
-© 2026 TANGENT ALLIED Enterprise LLP. All Rights Reserved.
+© 2026 Tangent Allied Enterprise LLP. All Rights Reserved.
+
