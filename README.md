@@ -8,7 +8,7 @@ A modern, professional, and fully responsive static corporate website for **Tang
 - **Header & Navigation**: Sticky header with custom brand logo, smooth scrolling, and mobile responsive menu.
 - **Hero Section**: Brand positioning, tagline, supporting narrative, and primary action buttons.
 - **About Us**: Comprehensive company profile highlighting ATL and BTL expertise.
-- **Our Services (6 Core Offerings)**:
+- **Our Services (6 Core Offerings)**: Visual showcase with dedicated imagery, badges, and key capabilities:
   1. Media Releases
   2. Event Marketing
   3. Point-of-Purchase Displays
@@ -16,7 +16,7 @@ A modern, professional, and fully responsive static corporate website for **Tang
   5. Podcast Production
   6. Social Media Marketing
 - **Strategic Approach**: ATL Marketing, BTL Marketing, and Non-Traditional Marketing.
-- **Leadership & Partners**: Partner profile cards with direct calling and WhatsApp connectivity for **Khaja Abdul Muqtadeer** and **Tanveer Fatima**.
+- **Leadership & Partners**: Partner profile cards with direct office desk connectivity for **Khaja Abdul Muqtadeer** and **Tanveer Fatima**.
 - **Contact Us**: Official company contact information, direct Call Now & Email Us functionality, dedicated WhatsApp assistance, Google Maps location iframe, and interactive contact form.
 - **Responsive & Lightweight**: Built with pure HTML5, CSS3, and vanilla JavaScript with zero external build dependencies.
 
