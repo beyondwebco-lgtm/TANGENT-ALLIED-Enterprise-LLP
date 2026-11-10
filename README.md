@@ -17,7 +17,7 @@ A modern, professional, and fully responsive static corporate website for **Tang
   6. Social Media Marketing
 - **Strategic Approach**: ATL Marketing, BTL Marketing, and Non-Traditional Marketing.
 - **Leadership & Partners**: Partner profile cards with direct office desk connectivity for **Khaja Abdul Muqtadeer** and **Tanveer Fatima**.
-- **Contact Us**: Official company contact information, direct Call Now & Email Us functionality, dedicated WhatsApp assistance, Google Maps location iframe, and interactive contact form.
+- **Contact Us**: Official company contact information (GSTIN: `36AAZFT2985L1Z0`), direct Call Now & Email Us functionality, dedicated WhatsApp assistance, Google Maps location iframe, and interactive contact form.
 - **Responsive & Lightweight**: Built with pure HTML5, CSS3, and vanilla JavaScript with zero external build dependencies.
 
 ## 📁 Project Structure

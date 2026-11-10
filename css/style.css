@@ -1525,6 +1525,13 @@ textarea.form-control {
   max-width: 320px;
 }
 
+.footer-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
 .footer-badge-pill {
   display: inline-flex;
   align-items: center;
@@ -1675,6 +1682,12 @@ textarea.form-control {
 .footer-contact-list a {
   color: #CBD5E1;
   font-weight: 600;
+}
+
+.footer-contact-list strong {
+  color: #FFFFFF;
+  font-weight: 700;
+  letter-spacing: 0.5px;
 }
 
 .footer-contact-list a:hover {
